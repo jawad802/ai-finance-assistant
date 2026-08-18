@@ -128,3 +128,6 @@
     @apply font-sans;
   }
 }
+@theme {
+  --font-sans: var(--font-poppins), sans-serif;
+}
